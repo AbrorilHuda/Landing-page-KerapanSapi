@@ -1,0 +1,6 @@
+User-agent: *
+Disallow:/#about
+Disallow:/#home
+Disallow:/#show
+Disallow:/#author
+Allow: /
